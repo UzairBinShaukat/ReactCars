@@ -8,6 +8,7 @@ class App extends Component {
     contacts: [
       { name: "sdf", phone: "asd", email: "dfr", address: "sde" },
       { name: "sdf", phone: "asd", email: "dfr", address: "sde" },
+      { name: "sdf", phone: "asd", email: "dfr", address: "sde" },
     ],
     view: "table",
   };
