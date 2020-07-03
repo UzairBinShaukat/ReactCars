@@ -14,13 +14,5 @@ const Navbar = (props) => {
     </nav>
   );
 };
-// onClick={() => {
-//   props.onAddForm({
-//     name: "uzair",
-//     phone: "0300",
-//     email: "uzair",
-//     address: "uzair",
-//   });
-// }}
 
 export default Navbar;
