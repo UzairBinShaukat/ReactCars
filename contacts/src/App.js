@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import Navbar from "./components/navbar";
-import Table from "./components/table";
-import Form from "./components/form";
+import ContactList from "./container/contactList";
+import ContactForm from "./container/contactForm";
 import "./App.css";
+
 class App extends Component {
   state = {
     contacts: [
@@ -34,17 +35,21 @@ class App extends Component {
     this.setState({ contacts: added, view: "table" });
   };
   handleAddForm = () => {
-    this.setState({ contacts: this.state.contacts, view: "addForm" });
+    this.setState({ view: "addForm" });
+  };
+  handleAllContacts = () => {
+    this.setState({ view: "table" });
   };
   render() {
     let elementTobeRender;
-    if (this.state.view === "table")
-      elementTobeRender = <Table contacts={this.state.contacts} />;
-    else if (this.state.view === "addForm")
-      elementTobeRender = <Form onSubmitForm={this.handleNew} />;
+    if (this.state.view === "table") elementTobeRender = <ContactList />;
+    else if (this.state.view === "addForm") elementTobeRender = <ContactForm />;
     return (
       <React.Fragment>
-        <Navbar onAddForm={this.handleAddForm} />
+        <Navbar
+          onAddForm={this.handleAddForm}
+          onAllContacts={this.handleAllContacts}
+        />
         {elementTobeRender}
       </React.Fragment>
     );

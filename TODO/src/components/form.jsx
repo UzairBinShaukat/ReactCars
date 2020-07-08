@@ -27,7 +27,6 @@ class Form extends Component {
               email: this.refs.email.value,
               address: this.refs.address.value,
             });
-            this.props.onViewChange();
           }}
           className="btn btn-secondary btn-sm m-2"
         >

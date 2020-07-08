@@ -12,11 +12,7 @@ const Table = (props) => {
         </tr>
       </thead>
       <tbody>
-        <Contact
-          contacts={props.contacts}
-          onDelete={props.onDelete}
-          onEdit={props.onEdit}
-        />
+        <Contact contacts={props.contacts} />
       </tbody>
     </table>
   );
