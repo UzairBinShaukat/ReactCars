@@ -6,13 +6,13 @@ const Navbar = (props) => {
         Contacts
       </a>
       <button
-        onClick={props.onAllContacts}
+        onClick={() => props.onAllContacts()}
         className="btn btn-secondary btn-sm m-2"
       >
         All Contact
       </button>
       <button
-        onClick={props.onAddForm}
+        onClick={() => props.onAddForm()}
         className="btn btn-secondary btn-sm m-2"
       >
         Add Contact

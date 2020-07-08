@@ -1,3 +1,4 @@
+import * as actionType from "../actions/const/constants";
 const contacts = (
   state = [
     {
@@ -10,7 +11,7 @@ const contacts = (
   ],
   action
 ) => {
-  if (action.type === "ADD_CONTACT") {
+  if (action.type === actionType.ADD_CONTACT) {
     return [
       ...state,
       {
@@ -21,8 +22,20 @@ const contacts = (
         address: action.address,
       },
     ];
-  } else if (action.type === "DELETE_CONTACT") {
+  } else if (action.type === actionType.DELETE_CONTACT) {
     return state.filter((contact) => contact.id !== action.id);
+  } else if (action.type === actionType.EDIT_CONTACT) {
+    return state.map((contact) =>
+      contact.id === action.id
+        ? {
+            ...contact,
+            name: action.name,
+            phone: action.phone,
+            email: action.email,
+            address: action.address,
+          }
+        : contact
+    );
   } else return state;
 };
 export default contacts;

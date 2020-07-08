@@ -1,0 +1,9 @@
+export const ADD_CONTACT = "ADD_CONTACT";
+export const DELETE_CONTACT = "DELETE_CONTACT";
+export const EDIT_CONTACT = "EDIT_CONTACT";
+export const SET_EDIT_VIEW = "SET_EDIT_VIEW";
+export const SET_TABLE_VIEW = "SET_TABLE_VIEW";
+export const SET_FORM_VIEW = "SET_FORM_VIEW";
+export const EDIT_VIEW = "EDIT_VIEW";
+export const TABLE_VIEW = "TABLE_VIEW";
+export const FORM_VIEW = "FORM_VIEW";

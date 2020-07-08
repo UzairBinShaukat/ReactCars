@@ -9,6 +9,9 @@ const Table = (props) => {
           <th scope="col">Phone</th>
           <th scope="col">Email</th>
           <th scope="col">Address</th>
+          <th scope="col" colSpan="2">
+            Actions
+          </th>
         </tr>
       </thead>
       <tbody>
