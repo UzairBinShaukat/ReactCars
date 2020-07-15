@@ -1,24 +1,17 @@
 import * as actionType from "./const/constants";
 let nextId = 0;
-export const addContact = (name, phone, email, address) => ({
+export const addContact = (contact) => ({
   type: actionType.ADD_CONTACT,
-  id: ++nextId,
-  name,
-  phone,
-  email,
-  address,
+  newContact: contact,
 });
 export const deleteContact = (id) => ({
   type: actionType.DELETE_CONTACT,
   id,
 });
-export const editContact = (id, name, phone, email, address) => ({
+
+export const editContact = (contact) => ({
   type: actionType.EDIT_CONTACT,
-  id,
-  name,
-  phone,
-  email,
-  address,
+  editedContact: contact,
 });
 export const setEditView = (id) => ({
   type: actionType.SET_EDIT_VIEW,

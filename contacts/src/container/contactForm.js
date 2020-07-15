@@ -6,10 +6,8 @@ const mapStateToProps = (state) => ({
   contacts: state.contacts,
 });
 const mapDispatchToProps = (dispatch) => ({
-  onSubmitForm: ({ name, phone, email, address }) =>
-    dispatch(addContact(name, phone, email, address)),
+  onSubmitForm: (contact) => dispatch(addContact(contact)),
   onViewChange: () => dispatch(setTableView()),
-  onEdit: ({ id, name, phone, email, address }) =>
-    dispatch(editContact(id, name, phone, email, address)),
+  onEdit: (contact) => dispatch(editContact(contact)),
 });
 export default connect(mapStateToProps, mapDispatchToProps)(Form);

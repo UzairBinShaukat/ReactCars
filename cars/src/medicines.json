@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Levothroid 25mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "25 mcg",
+		"description": ""
+	},
+	{
+		"name": "Levothroid 50mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "50 mcg",
+		"description": ""
+	},
+	{
+		"name": "Levothroid 75mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "75 mcg",
+		"description": ""
+	},
+	{
+		"name": "Levothroid 88mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "88 mcg",
+		"description": ""
+	},
+	{
+		"name": "Levothroid 100mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "100 mcg",
+		"description": ""
+	},
+	{
+		"name": "Levothroid 112mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "112 mcg",
+		"description": ""
+	},
+	{
+		"name": "Levothroid 125mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "125 mcg",
+		"description": ""
+	},
+	{
+		"name": "Levothroid 137mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "137 mcg",
+		"description": ""
+	},
+	{
+		"name": "Levothroid 150mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "150 mcg",
+		"description": ""
+	},
+	{
+		"name": "Levothroid 175mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "175 mcg",
+		"description": ""
+	},
+	{
+		"name": "Levothroid 200mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "200 mcg",
+		"description": ""
+	},
+	{
+		"name": "Levothroid 300mcg",
+		"generic_name": "Levothyroxine",
+		"category": "Tab",
+		"mg_range": "300 mcg",
+		"description": ""
+	}
+]
