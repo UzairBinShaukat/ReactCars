@@ -1,0 +1,4010 @@
+[
+  {
+    "name": "Levothroid 25mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "25 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levothroid 50mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "50 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levothroid 75mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "75 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levothroid 88mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "88 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levothroid 100mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "100 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levothroid 112mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "112 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levothroid 125mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "125 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levothroid 137mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "137 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levothroid 150mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "150 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levothroid 175mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "175 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levothroid 200mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "200 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levothroid 300mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "300 mcg",
+    "description": ""
+  },
+
+  {
+    "name": "Levoxyl 25mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "25 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levoxyl 50mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "50 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levoxyl 75mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "75 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levoxyl 88mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "88 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levoxyl 100mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "100 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levoxyl 112mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "112 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levoxyl 125mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "125 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levoxyl 137mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "137 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levoxyl 150mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "150 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levoxyl 175mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "175 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levoxyl 200mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "200 mcg",
+    "description": ""
+  },
+  {
+    "name": "Levoxyl 300mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "300 mcg",
+    "description": ""
+  },
+
+  {
+    "name": "Synthroid 25mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "25 mcg",
+    "description": ""
+  },
+  {
+    "name": "Synthroid 50mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "50 mcg",
+    "description": ""
+  },
+  {
+    "name": "Synthroid 75mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "75 mcg",
+    "description": ""
+  },
+  {
+    "name": "Synthroid 88mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "88 mcg",
+    "description": ""
+  },
+  {
+    "name": "Synthroid 100mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "100 mcg",
+    "description": ""
+  },
+  {
+    "name": "Synthroid 112mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "112 mcg",
+    "description": ""
+  },
+  {
+    "name": "Synthroid 125mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "125 mcg",
+    "description": ""
+  },
+  {
+    "name": "Synthroid 137mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "137 mcg",
+    "description": ""
+  },
+  {
+    "name": "Synthroid 150mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "150 mcg",
+    "description": ""
+  },
+  {
+    "name": "Synthroid 175mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "175 mcg",
+    "description": ""
+  },
+  {
+    "name": "Synthroid 200mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "200 mcg",
+    "description": ""
+  },
+  {
+    "name": "Synthroid 300mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "300 mcg",
+    "description": ""
+  },
+
+  {
+    "name": "Unithroid 25mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "25 mcg",
+    "description": ""
+  },
+  {
+    "name": "Unithroid 50mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "50 mcg",
+    "description": ""
+  },
+  {
+    "name": "Unithroid 75mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "75 mcg",
+    "description": ""
+  },
+  {
+    "name": "Unithroid 88mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "88 mcg",
+    "description": ""
+  },
+  {
+    "name": "Unithroid 100mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "100 mcg",
+    "description": ""
+  },
+  {
+    "name": "Unithroid 112mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "112 mcg",
+    "description": ""
+  },
+  {
+    "name": "Unithroid 125mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "125 mcg",
+    "description": ""
+  },
+  {
+    "name": "Unithroid 137mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "137 mcg",
+    "description": ""
+  },
+  {
+    "name": "Unithroid 150mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "150 mcg",
+    "description": ""
+  },
+  {
+    "name": "Unithroid 175mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "175 mcg",
+    "description": ""
+  },
+  {
+    "name": "Unithroid 200mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "200 mcg",
+    "description": ""
+  },
+  {
+    "name": "Unithroid 300mcg",
+    "generic_name": "Levothyroxine",
+    "category": "Tab",
+    "mg_range": "300 mcg",
+    "description": ""
+  },
+
+  {
+    "name": "Prinivil 2.5mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "2.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Prinivil 5mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Prinivil 10mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Prinivil 20mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Prinivil 30mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+  {
+    "name": "Prinivil 40mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Zestril 2.5mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "2.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Zestril 5mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Zestril 10mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Zestril 20mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Zestril 30mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+  {
+    "name": "Zestril 40mg",
+    "generic_name": "Lisinopril",
+    "category": "Tab",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Lipitor 10mg",
+    "generic_name": "Atorvastatin",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Lipitor 20mg",
+    "generic_name": "Atorvastatin",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Lipitor 40mg",
+    "generic_name": "Atorvastatin",
+    "category": "Tab",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Lipitor 80mg",
+    "generic_name": "Atorvastatin",
+    "category": "Tab",
+    "mg_range": "80 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Fortamet 2.5-250mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "2.5-250 mg",
+    "description": ""
+  },
+  {
+    "name": "Fortamet 2.5-500mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "2.5-500 mg",
+    "description": ""
+  },
+  {
+    "name": "Fortamet 5-500mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "5-500 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Glucophage 2.5-250mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "2.5-250 mg",
+    "description": ""
+  },
+  {
+    "name": "Glucophage 2.5-500mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "2.5-500 mg",
+    "description": ""
+  },
+  {
+    "name": "Glucophage 5-500mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "5-500 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Glumetza 2.5-250mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "2.5-250 mg",
+    "description": ""
+  },
+  {
+    "name": "Glumetza 2.5-500mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "2.5-500 mg",
+    "description": ""
+  },
+  {
+    "name": "Glumetza 5-500mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "5-500 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Riomet 2.5-250mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "2.5-250 mg",
+    "description": ""
+  },
+  {
+    "name": "Riomet 2.5-500mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "2.5-500 mg",
+    "description": ""
+  },
+  {
+    "name": "Riomet 5-500mg",
+    "generic_name": "Metformin",
+    "category": "Tab",
+    "mg_range": "5-500 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Norvasc 2.5mg",
+    "generic_name": "Amlodipine",
+    "category": "Tab",
+    "mg_range": "2.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Norvasc 5mg",
+    "generic_name": "Amlodipine",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Norvasc 10mg",
+    "generic_name": "Amlodipine",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Prilosec 2.5mg",
+    "generic_name": "Omeprazole",
+    "category": "Tab",
+    "mg_range": "2.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Prilosec 10mg",
+    "generic_name": "Omeprazole",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Zocor 5mg",
+    "generic_name": "Simvastatin",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Zocor 10mg",
+    "generic_name": "Simvastatin",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Zocor 20mg",
+    "generic_name": "Simvastatin",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Zocor 40mg",
+    "generic_name": "Simvastatin",
+    "category": "Tab",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Zocor 80mg",
+    "generic_name": "Simvastatin",
+    "category": "Tab",
+    "mg_range": "80 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Cozaar 25mg",
+    "generic_name": "Losartan",
+    "category": "Tab",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+  {
+    "name": "Cozaar 50mg",
+    "generic_name": "Losartan",
+    "category": "Tab",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+  {
+    "name": "Cozaar 100mg",
+    "generic_name": "Losartan",
+    "category": "Tab",
+    "mg_range": "100 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Neurontin 100mg",
+    "generic_name": "Gabapentin",
+    "category": "Cap",
+    "mg_range": "100 mg",
+    "description": ""
+  },
+  {
+    "name": "Neurontin 300mg",
+    "generic_name": "Gabapentin",
+    "category": "Cap",
+    "mg_range": "300 mg",
+    "description": ""
+  },
+  {
+    "name": "Neurontin 400mg",
+    "generic_name": "Gabapentin",
+    "category": "Cap",
+    "mg_range": "400 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Neurontin 250mg/5ml",
+    "generic_name": "Gabapentin",
+    "category": "Sol",
+    "mg_range": "250 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Neurontin 300mg/6ml",
+    "generic_name": "Gabapentin",
+    "category": "Sol",
+    "mg_range": "300 mg/6ml",
+    "description": ""
+  },
+
+  {
+    "name": "Neurontin 600mg",
+    "generic_name": "Gabapentin",
+    "category": "Tab",
+    "mg_range": "600 mg",
+    "description": ""
+  },
+  {
+    "name": "Neurontin 800mg",
+    "generic_name": "Gabapentin",
+    "category": "Tab",
+    "mg_range": "800 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Esidrix 12.5mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Cap",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Esidrix 12.5mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Esidrix 25mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+  {
+    "name": "Esidrix 50mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Hydrodiuril 12.5mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Cap",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Hydrodiuril 12.5mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Hydrodiuril 25mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+  {
+    "name": "Hydrodiuril 50mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Microzide 12.5mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Cap",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Microzide 12.5mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Microzide 25mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+  {
+    "name": "Microzide 50mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Oretic 12.5mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Cap",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Oretic 12.5mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Oretic 25mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+  {
+    "name": "Oretic 50mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Zide 12.5mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Cap",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Zide 12.5mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Zide 25mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+  {
+    "name": "Zide 50mg",
+    "generic_name": "Hydrochlorothiazide",
+    "category": "Tab",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Lortab 2.5-108mg/5ml",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Sol",
+    "mg_range": "2.5-108 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Lortab 5-217mg/10ml",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Sol",
+    "mg_range": "5-217 mg/10ml",
+    "description": ""
+  },
+  {
+    "name": "Lortab 7.5-325mg/15ml",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Sol",
+    "mg_range": "7.5-325 mg/15ml",
+    "description": ""
+  },
+
+  {
+    "name": "Lortab 5-325mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "5-325 mg",
+    "description": ""
+  },
+  {
+    "name": "Lortab 5-300mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "5-300 mg",
+    "description": ""
+  },
+  {
+    "name": "Lortab 7.5-325mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "7.5-325 mg",
+    "description": ""
+  },
+  {
+    "name": "Lortab 7.5-300mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "7.5-300 mg",
+    "description": ""
+  },
+  {
+    "name": "Lortab 10-325mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "10-325 mg",
+    "description": ""
+  },
+  {
+    "name": "Lortab 10-300mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "10-300 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Norco 2.5-108mg/5ml",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Sol",
+    "mg_range": "2.5-108 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Norco 5-217mg/10ml",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Sol",
+    "mg_range": "5-217 mg/10ml",
+    "description": ""
+  },
+  {
+    "name": "Norco 7.5-325mg/15ml",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Sol",
+    "mg_range": "7.5-325 mg/15ml",
+    "description": ""
+  },
+
+  {
+    "name": "Norco 5-325mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "5-325 mg",
+    "description": ""
+  },
+  {
+    "name": "Norco 5-300mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "5-300 mg",
+    "description": ""
+  },
+  {
+    "name": "Norco 7.5-325mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "7.5-325 mg",
+    "description": ""
+  },
+  {
+    "name": "Norco 7.5-300mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "7.5-300 mg",
+    "description": ""
+  },
+  {
+    "name": "Norco 10-325mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "10-325 mg",
+    "description": ""
+  },
+  {
+    "name": "Norco 10-300mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "10-300 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Vicodin 2.5-108mg/5ml",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Sol",
+    "mg_range": "2.5-108 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Vicodin 5-217mg/10ml",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Sol",
+    "mg_range": "5-217 mg/10ml",
+    "description": ""
+  },
+  {
+    "name": "Vicodin 7.5-325mg/15ml",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Sol",
+    "mg_range": "7.5-325 mg/15ml",
+    "description": ""
+  },
+
+  {
+    "name": "Vicodin 5-325mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "5-325 mg",
+    "description": ""
+  },
+  {
+    "name": "Vicodin 5-300mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "5-300 mg",
+    "description": ""
+  },
+  {
+    "name": "Vicodin 7.5-325mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "7.5-325 mg",
+    "description": ""
+  },
+  {
+    "name": "Vicodin 7.5-300mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "7.5-300 mg",
+    "description": ""
+  },
+  {
+    "name": "Vicodin 10-325mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "10-325 mg",
+    "description": ""
+  },
+  {
+    "name": "Vicodin 10-300mg",
+    "generic_name": "Hydrocodone,acetaminophen",
+    "category": "Tab",
+    "mg_range": "10-300 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Zoloft 20mg/ml",
+    "generic_name": "Sertraline",
+    "category": "Con",
+    "mg_range": "20 mg/ml",
+    "description": ""
+  },
+
+  {
+    "name": "Zoloft 25mg",
+    "generic_name": "Sertraline",
+    "category": "Tab",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+  {
+    "name": "Zoloft 50mg",
+    "generic_name": "Sertraline",
+    "category": "Tab",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+  {
+    "name": "Zoloft 100mg",
+    "generic_name": "Sertraline",
+    "category": "Tab",
+    "mg_range": "100 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Flonase 137-50mcg/act",
+    "generic_name": "Fluticasone",
+    "category": "Sus",
+    "mg_range": "137-50 mcg/act",
+    "description": ""
+  },
+  {
+    "name": "Flonase 23gm",
+    "generic_name": "Fluticasone",
+    "category": "Bot",
+    "mg_range": "23 gm",
+    "description": ""
+  },
+
+  {
+    "name": "Acetaminophen 120-12mg/5ml",
+    "generic_name": "",
+    "category": "Sol",
+    "mg_range": "120-12 mg/5ml",
+    "description": ""
+  },
+
+  {
+    "name": "Acetaminophen 300-15mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "300-15 mg",
+    "description": ""
+  },
+  {
+    "name": "Acetaminophen 300-30mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "300-30 mg",
+    "description": ""
+  },
+  {
+    "name": "Acetaminophen 300-60mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "300-60 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Amoxil 250mg",
+    "generic_name": "Amoxicillin",
+    "category": "Cap",
+    "mg_range": "250 mg",
+    "description": ""
+  },
+  {
+    "name": "Amoxil 500mg",
+    "generic_name": "Amoxicillin",
+    "category": "Cap",
+    "mg_range": "500 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Amoxil 125mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "125 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Amoxil 200mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "200 mg/5mll",
+    "description": ""
+  },
+  {
+    "name": "Amoxil 250mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "250 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Amoxil 400mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "400 mg/5ml",
+    "description": ""
+  },
+
+  {
+    "name": "Amoxil 500mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "500 mg",
+    "description": ""
+  },
+  {
+    "name": "Amoxil 875mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "875 mg",
+    "description": ""
+  },
+  {
+    "name": "Amoxil 125mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "125 mg",
+    "description": ""
+  },
+  {
+    "name": "Amoxil 250mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "250 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Polymox 250mg",
+    "generic_name": "Amoxicillin",
+    "category": "Cap",
+    "mg_range": "250 mg",
+    "description": ""
+  },
+  {
+    "name": "Polymox 500mg",
+    "generic_name": "Amoxicillin",
+    "category": "Cap",
+    "mg_range": "500 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Polymox 125mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "125 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Polymox 200mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "200 mg/5mll",
+    "description": ""
+  },
+  {
+    "name": "Polymox 250mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "250 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Polymox 400mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "400 mg/5ml",
+    "description": ""
+  },
+
+  {
+    "name": "Polymox 500mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "500 mg",
+    "description": ""
+  },
+  {
+    "name": "Polymox 875mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "875 mg",
+    "description": ""
+  },
+  {
+    "name": "Polymox 125mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "125 mg",
+    "description": ""
+  },
+  {
+    "name": "Polymox 250mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "250 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Trimox 250mg",
+    "generic_name": "Amoxicillin",
+    "category": "Cap",
+    "mg_range": "250 mg",
+    "description": ""
+  },
+  {
+    "name": "Trimox 500mg",
+    "generic_name": "Amoxicillin",
+    "category": "Cap",
+    "mg_range": "500 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Trimox 125mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "125 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Trimox 200mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "200 mg/5mll",
+    "description": ""
+  },
+  {
+    "name": "Trimox 250mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "250 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Trimox 400mg/5ml",
+    "generic_name": "Amoxicillin",
+    "category": "Sus",
+    "mg_range": "400 mg/5ml",
+    "description": ""
+  },
+
+  {
+    "name": "Trimox 500mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "500 mg",
+    "description": ""
+  },
+  {
+    "name": "Trimox 875mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "875 mg",
+    "description": ""
+  },
+  {
+    "name": "Trimox 125mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "125 mg",
+    "description": ""
+  },
+  {
+    "name": "Trimox 250mg",
+    "generic_name": "Amoxicillin",
+    "category": "Tab",
+    "mg_range": "250 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Xanax 1mg/ml",
+    "generic_name": "Alprazolam",
+    "category": "Con",
+    "mg_range": "1 mg/ml",
+    "description": ""
+  },
+
+  {
+    "name": "Xanax 0.25mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab",
+    "mg_range": "0.25 mg",
+    "description": ""
+  },
+  {
+    "name": "Xanax 0.5mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab",
+    "mg_range": "0.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Xanax 1mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab",
+    "mg_range": "1 mg",
+    "description": ""
+  },
+  {
+    "name": "Xanax 2mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab",
+    "mg_range": "2 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Xanax 0.25mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab,Dis",
+    "mg_range": "0.25 mg",
+    "description": ""
+  },
+  {
+    "name": "Xanax 0.5mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab,Dis",
+    "mg_range": "0.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Xanax 1mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab,Dis",
+    "mg_range": "1 mg",
+    "description": ""
+  },
+  {
+    "name": "Xanax 2mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab,Dis",
+    "mg_range": "2 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Xanax 0.5mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab,Ext24",
+    "mg_range": "0.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Xanax 1mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab,Ext24",
+    "mg_range": "1 mg",
+    "description": ""
+  },
+  {
+    "name": "Xanax 2mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab,Ext24",
+    "mg_range": "2 mg",
+    "description": ""
+  },
+  {
+    "name": "Xanax 3mg",
+    "generic_name": "Alprazolam",
+    "category": "Tab,Ext24",
+    "mg_range": "3 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Tenormin 25mg",
+    "generic_name": "Atenolol",
+    "category": "Tab",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+  {
+    "name": "Tenormin 50mg",
+    "generic_name": "Atenolol",
+    "category": "Tab",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+  {
+    "name": "Tenormin 100mg",
+    "generic_name": "Atenolol",
+    "category": "Tab",
+    "mg_range": "100 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Celexa 10mg/5ml",
+    "generic_name": "Citalopram",
+    "category": "Sol",
+    "mg_range": "10 mg/5ml",
+    "description": ""
+  },
+
+  {
+    "name": "Celexa 10mg",
+    "generic_name": "Citalopram",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Celexa 20mg",
+    "generic_name": "Citalopram",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Celexa 40mg",
+    "generic_name": "Citalopram",
+    "category": "Tab",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Lantus 100unit/ml",
+    "generic_name": "Insulin glargine",
+    "category": "Sol",
+    "mg_range": "100 unit/ml",
+    "description": ""
+  },
+  {
+    "name": "Lantus 100unit/ml",
+    "generic_name": "Insulin glargine",
+    "category": "Sol,Pen",
+    "mg_range": "100 unit/ml",
+    "description": ""
+  },
+
+  {
+    "name": "Toujeo 100unit/ml",
+    "generic_name": "Insulin glargine",
+    "category": "Sol",
+    "mg_range": "100 unit/ml",
+    "description": ""
+  },
+  {
+    "name": "Toujeo 100unit/ml",
+    "generic_name": "Insulin glargine",
+    "category": "Sol,Pen",
+    "mg_range": "100 unit/ml",
+    "description": ""
+  },
+
+  {
+    "name": "Singulair 4mg",
+    "generic_name": "Montelukast",
+    "category": "Pac",
+    "mg_range": "4 mg",
+    "description": ""
+  },
+  {
+    "name": "Singulair 10mg",
+    "generic_name": "Montelukast",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Singulair 4mg",
+    "generic_name": "Montelukast",
+    "category": "Tab",
+    "mg_range": "4 mg",
+    "description": ""
+  },
+  {
+    "name": "Singulair 5mg",
+    "generic_name": "Montelukast",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Desyrel 50mg",
+    "generic_name": "Trazodone",
+    "category": "Tab",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+  {
+    "name": "Desyrel 100mg",
+    "generic_name": "Trazodone",
+    "category": "Tab",
+    "mg_range": "100 mg",
+    "description": ""
+  },
+  {
+    "name": "Desyrel 150mg",
+    "generic_name": "Trazodone",
+    "category": "Tab",
+    "mg_range": "150 mg",
+    "description": ""
+  },
+  {
+    "name": "Desyrel 300mg",
+    "generic_name": "Trazodone",
+    "category": "Tab",
+    "mg_range": "300 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Protonix 20mg",
+    "generic_name": "Pantoprazole",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Protonix 40mg",
+    "generic_name": "Pantoprazole",
+    "category": "Tab",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Lexapro 5mg/5ml",
+    "generic_name": "Escitalopram",
+    "category": "Sol",
+    "mg_range": "5 mg/5ml",
+    "description": ""
+  },
+
+  {
+    "name": "Lexapro 5mg",
+    "generic_name": "Escitalopram",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Lexapro 10mg",
+    "generic_name": "Escitalopram",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Lexapro 20mg",
+    "generic_name": "Escitalopram",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Pravachol 10mg",
+    "generic_name": "Pravastatin",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Pravachol 20mg",
+    "generic_name": "Pravastatin",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Pravachol 40mg",
+    "generic_name": "Pravastatin",
+    "category": "Tab",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Pravachol 80mg",
+    "generic_name": "Pravastatin",
+    "category": "Tab",
+    "mg_range": "80 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Budeprion 100mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "100 mg",
+    "description": ""
+  },
+  {
+    "name": "Budeprion 150mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "150 mg",
+    "description": ""
+  },
+  {
+    "name": "Budeprion 200mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "200 mg",
+    "description": ""
+  },
+  {
+    "name": "Budeprion 150mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext24",
+    "mg_range": "150 mg",
+    "description": ""
+  },
+  {
+    "name": "Budeprion 300mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext24",
+    "mg_range": "300 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Buproban 100mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "100 mg",
+    "description": ""
+  },
+  {
+    "name": "Buproban 150mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "150 mg",
+    "description": ""
+  },
+  {
+    "name": "Buproban 200mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "200 mg",
+    "description": ""
+  },
+  {
+    "name": "Buproban 150mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext24",
+    "mg_range": "150 mg",
+    "description": ""
+  },
+  {
+    "name": "Buproban 300mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext24",
+    "mg_range": "300 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Wellbutrin 100mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "100 mg",
+    "description": ""
+  },
+  {
+    "name": "Wellbutrin 150mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "150 mg",
+    "description": ""
+  },
+  {
+    "name": "Wellbutrin 200mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "200 mg",
+    "description": ""
+  },
+  {
+    "name": "Wellbutrin 150mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext24",
+    "mg_range": "150 mg",
+    "description": ""
+  },
+  {
+    "name": "Wellbutrin 300mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext24",
+    "mg_range": "300 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Zyban 100mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "100 mg",
+    "description": ""
+  },
+  {
+    "name": "Zyban 150mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "150 mg",
+    "description": ""
+  },
+  {
+    "name": "Zyban 200mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext12",
+    "mg_range": "200 mg",
+    "description": ""
+  },
+  {
+    "name": "Zyban 150mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext24",
+    "mg_range": "150 mg",
+    "description": ""
+  },
+  {
+    "name": "Zyban 300mg",
+    "generic_name": "Bupropion",
+    "category": "Tab,Ext24",
+    "mg_range": "300 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Prozac 10mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Prozac 15mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+  {
+    "name": "Prozac 20mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Prozac 40mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Prozac 90mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "90 mg",
+    "description": ""
+  },
+  {
+    "name": "Prozac 20mg/5ml",
+    "generic_name": "Fluoxetine",
+    "category": "Sol",
+    "mg_range": "20 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Prozac 5mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Prozac 10mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Prozac 20mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Prozac 60mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Rapiflux 10mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Rapiflux 15mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+  {
+    "name": "Rapiflux 20mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Rapiflux 40mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Rapiflux 90mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "90 mg",
+    "description": ""
+  },
+  {
+    "name": "Rapiflux 20mg/5ml",
+    "generic_name": "Fluoxetine",
+    "category": "Sol",
+    "mg_range": "20 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Rapiflux 5mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Rapiflux 10mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Rapiflux 20mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Rapiflux 60mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Sarafem 10mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Sarafem 15mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+  {
+    "name": "Sarafem 20mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Sarafem 40mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Sarafem 90mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "90 mg",
+    "description": ""
+  },
+  {
+    "name": "Sarafem 20mg/5ml",
+    "generic_name": "Fluoxetine",
+    "category": "Sol",
+    "mg_range": "20 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Sarafem 5mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Sarafem 10mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Sarafem 20mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Sarafem 60mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Selfemra 10mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Selfemra 15mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+  {
+    "name": "Selfemra 20mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Selfemra 40mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Selfemra 90mg",
+    "generic_name": "Fluoxetine",
+    "category": "Cap",
+    "mg_range": "90 mg",
+    "description": ""
+  },
+  {
+    "name": "Selfemra 20mg/5ml",
+    "generic_name": "Fluoxetine",
+    "category": "Sol",
+    "mg_range": "20 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Selfemra 5mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Selfemra 10mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Selfemra 20mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Selfemra 60mg",
+    "generic_name": "Fluoxetine",
+    "category": "Tab",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Deltasone 10mg",
+    "generic_name": "Prednisone",
+    "category": "Cap,Ext24",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Deltasone 20mg",
+    "generic_name": "Prednisone",
+    "category": "Cap,Ext24",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Deltasone 40mg",
+    "generic_name": "Prednisone",
+    "category": "Cap,Ext24",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Deltasone 80mg",
+    "generic_name": "Prednisone",
+    "category": "Cap,Ext24",
+    "mg_range": "80 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Deltasone 3.125mg",
+    "generic_name": "Prednisone",
+    "category": "Tab",
+    "mg_range": "3.125 mg",
+    "description": ""
+  },
+  {
+    "name": "Deltasone 6.25mg",
+    "generic_name": "Prednisone",
+    "category": "Tab",
+    "mg_range": "6.25 mg",
+    "description": ""
+  },
+  {
+    "name": "Deltasone 12.5mg",
+    "generic_name": "Prednisone",
+    "category": "Tab",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Deltasone 25mg",
+    "generic_name": "Prednisone",
+    "category": "Tab",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Flomax 0.5-0.4mg",
+    "generic_name": "Tamsulosin",
+    "category": "Cap",
+    "mg_range": "0.5-0.4 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Plavix 75mg",
+    "generic_name": "Clopidogrel",
+    "category": "Tab",
+    "mg_range": "75 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Advil 800mg",
+    "generic_name": "Ibuprofen",
+    "category": "Kit",
+    "mg_range": "800 mg",
+    "description": ""
+  },
+  {
+    "name": "Advil 100mg/5ml",
+    "generic_name": "Ibuprofen",
+    "category": "Sus",
+    "mg_range": "100 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Advil 400mg",
+    "generic_name": "Ibuprofen",
+    "category": "Tab",
+    "mg_range": "400 mg",
+    "description": ""
+  },
+  {
+    "name": "Advil 600mg",
+    "generic_name": "Ibuprofen",
+    "category": "Tab",
+    "mg_range": "600 mg",
+    "description": ""
+  },
+  {
+    "name": "Advil 800mg",
+    "generic_name": "Ibuprofen",
+    "category": "Tab",
+    "mg_range": "800 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Motrin 800mg",
+    "generic_name": "Ibuprofen",
+    "category": "Kit",
+    "mg_range": "800 mg",
+    "description": ""
+  },
+  {
+    "name": "Motrin 100mg/5ml",
+    "generic_name": "Ibuprofen",
+    "category": "Sus",
+    "mg_range": "100 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Motrin 400mg",
+    "generic_name": "Ibuprofen",
+    "category": "Tab",
+    "mg_range": "400 mg",
+    "description": ""
+  },
+  {
+    "name": "Motrin 600mg",
+    "generic_name": "Ibuprofen",
+    "category": "Tab",
+    "mg_range": "600 mg",
+    "description": ""
+  },
+  {
+    "name": "Motrin 800mg",
+    "generic_name": "Ibuprofen",
+    "category": "Tab",
+    "mg_range": "800 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Meloxicam 15mg",
+    "generic_name": "",
+    "category": "Kit",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+  {
+    "name": "Meloxicam 7.5mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "7.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Meloxicam 15mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Crestor 5mg",
+    "generic_name": "Rosuvastatin",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Crestor 10mg",
+    "generic_name": "Rosuvastatin",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Crestor 20mg",
+    "generic_name": "Rosuvastatin",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Crestor 40mg",
+    "generic_name": "Rosuvastatin",
+    "category": "Tab",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Aspirin 4.8355-325mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "4.8355-325 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Ultram 50mg",
+    "generic_name": "Tramadol",
+    "category": "Tab",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Ambien 5mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Ambien 10mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Ambien 6.25mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab,Ext",
+    "mg_range": "6.25 mg",
+    "description": ""
+  },
+  {
+    "name": "Ambien 12.5mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab,Ext",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Ambien 1.75mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab,Sub",
+    "mg_range": "1.75 mg",
+    "description": ""
+  },
+  {
+    "name": "Ambien 3.5mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab,Sub",
+    "mg_range": "3.5 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Intermezzo 5mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Intermezzo 10mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Intermezzo 6.25mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab,Ext",
+    "mg_range": "6.25 mg",
+    "description": ""
+  },
+  {
+    "name": "Intermezzo 12.5mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab,Ext",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Intermezzo 1.75mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab,Sub",
+    "mg_range": "1.75 mg",
+    "description": ""
+  },
+  {
+    "name": "Intermezzo 3.5mg",
+    "generic_name": "Zolpidem",
+    "category": "Tab,Sub",
+    "mg_range": "3.5 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Coumadin 1mg",
+    "generic_name": "Warfarin",
+    "category": "Tab",
+    "mg_range": "1 mg",
+    "description": ""
+  },
+  {
+    "name": "Coumadin 2mg",
+    "generic_name": "Warfarin",
+    "category": "Tab",
+    "mg_range": "2 mg",
+    "description": ""
+  },
+  {
+    "name": "Coumadin 2.5mg",
+    "generic_name": "Warfarin",
+    "category": "Tab",
+    "mg_range": "2.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Coumadin 3mg",
+    "generic_name": "Warfarin",
+    "category": "Tab",
+    "mg_range": "3 mg",
+    "description": ""
+  },
+  {
+    "name": "Coumadin 4mg",
+    "generic_name": "Warfarin",
+    "category": "Tab",
+    "mg_range": "4 mg",
+    "description": ""
+  },
+  {
+    "name": "Coumadin 5mg",
+    "generic_name": "Warfarin",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Coumadin 6mg",
+    "generic_name": "Warfarin",
+    "category": "Tab",
+    "mg_range": "6 mg",
+    "description": ""
+  },
+  {
+    "name": "Coumadin 7.5mg",
+    "generic_name": "Warfarin",
+    "category": "Tab",
+    "mg_range": "7.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Coumadin 10mg",
+    "generic_name": "Warfarin",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Klonopin 0.5mg",
+    "generic_name": "Clonazepam",
+    "category": "Tab",
+    "mg_range": "0.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Klonopin 1mg",
+    "generic_name": "Clonazepam",
+    "category": "Tab",
+    "mg_range": "1 mg",
+    "description": ""
+  },
+  {
+    "name": "Klonopin 2mg",
+    "generic_name": "Clonazepam",
+    "category": "Tab",
+    "mg_range": "2 mg",
+    "description": ""
+  },
+  {
+    "name": "Klonopin 0.125mg",
+    "generic_name": "Clonazepam",
+    "category": "Tab,Dis",
+    "mg_range": "0.125 mg",
+    "description": ""
+  },
+  {
+    "name": "Klonopin 0.25mg",
+    "generic_name": "Clonazepam",
+    "category": "Tab,Dis",
+    "mg_range": "0.25 mg",
+    "description": ""
+  },
+  {
+    "name": "Klonopin 0.5mg",
+    "generic_name": "Clonazepam",
+    "category": "Tab,Dis",
+    "mg_range": "0.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Klonopin 1mg",
+    "generic_name": "Clonazepam",
+    "category": "Tab,Dis",
+    "mg_range": "1 mg",
+    "description": ""
+  },
+  {
+    "name": "Klonopin 2mg",
+    "generic_name": "Clonazepam",
+    "category": "Tab,Dis",
+    "mg_range": "2 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Inderal 60mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+  {
+    "name": "Inderal 80mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "80 mg",
+    "description": ""
+  },
+  {
+    "name": "Inderal 120mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "120 mg",
+    "description": ""
+  },
+  {
+    "name": "Inderal 160mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "160 mg",
+    "description": ""
+  },
+
+  {
+    "name": "InnoPran 60mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+  {
+    "name": "InnoPran 80mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "80 mg",
+    "description": ""
+  },
+  {
+    "name": "InnoPran 120mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "120 mg",
+    "description": ""
+  },
+  {
+    "name": "InnoPran 160mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "160 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Pronol 60mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+  {
+    "name": "Pronol 80mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "80 mg",
+    "description": ""
+  },
+  {
+    "name": "Pronol 120mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "120 mg",
+    "description": ""
+  },
+  {
+    "name": "Pronol 160mg",
+    "generic_name": "Propranolol",
+    "category": "Cap,Ext24",
+    "mg_range": "160 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Glucotrol 5mg",
+    "generic_name": "Glipizide",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Glucotrol 10mg",
+    "generic_name": "Glipizide",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Glucotrol 2.5mg",
+    "generic_name": "Glipizide",
+    "category": "Tab,Ext24",
+    "mg_range": "2.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Glucotrol 5mg",
+    "generic_name": "Glipizide",
+    "category": "Tab,Ext24",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Glucotrol 10mg",
+    "generic_name": "Glipizide",
+    "category": "Tab,Ext24",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Amphetamine aspartate 5mg",
+    "generic_name": "",
+    "category": "Cap,Ext24",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 10mg",
+    "generic_name": "",
+    "category": "Cap,Ext24",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 15mg",
+    "generic_name": "",
+    "category": "Cap,Ext24",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 20mg",
+    "generic_name": "",
+    "category": "Cap,Ext24",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 25mg",
+    "generic_name": "",
+    "category": "Cap,Ext24",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 30mg",
+    "generic_name": "",
+    "category": "Cap,Ext24",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 5mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 7.5mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "7.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 10mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 12.5mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "12.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 15mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 20mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Amphetamine aspartate 30mg",
+    "generic_name": "",
+    "category": "Tab",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Flexeril 15mg",
+    "generic_name": "Cyclobenzaprine",
+    "category": "Cap,Ext24",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+  {
+    "name": "Flexeril 30mg",
+    "generic_name": "Cyclobenzaprine",
+    "category": "Cap,Ext24",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+  {
+    "name": "Flexeril 10mg",
+    "generic_name": "Cyclobenzaprine",
+    "category": "Kit",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Flexeril 5mg",
+    "generic_name": "Cyclobenzaprine",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Flexeril 7.5mg",
+    "generic_name": "Cyclobenzaprine",
+    "category": "Tab",
+    "mg_range": "7.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Flexeril 10mg",
+    "generic_name": "Cyclobenzaprine",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Concerta 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 20mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 30mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 40mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 50mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 60mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 20mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 30mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 40mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 60mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 5mg/5ml",
+    "generic_name": "Methylphenidate",
+    "category": "Sol",
+    "mg_range": "5 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Concerta 10mg/5ml",
+    "generic_name": "Methylphenidate",
+    "category": "Sol",
+    "mg_range": "10 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Concerta 5mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 15mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 2.5mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Chw",
+    "mg_range": "2.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 5mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Chw",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Chw",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 18mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "18 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 20mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 27mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "27 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 36mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "36 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 54mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "54 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 72mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "72 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 18mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "18 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 27mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "27 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 36mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "36 mg",
+    "description": ""
+  },
+  {
+    "name": "Concerta 54mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "54 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Metadate 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 20mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 30mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 40mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 50mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 60mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 20mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 30mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 40mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 60mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 5mg/5ml",
+    "generic_name": "Methylphenidate",
+    "category": "Sol",
+    "mg_range": "5 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Metadate 10mg/5ml",
+    "generic_name": "Methylphenidate",
+    "category": "Sol",
+    "mg_range": "10 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Metadate 5mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 15mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 2.5mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Chw",
+    "mg_range": "2.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 5mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Chw",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Chw",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 18mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "18 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 20mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 27mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "27 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 36mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "36 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 54mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "54 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 72mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "72 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 18mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "18 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 27mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "27 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 36mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "36 mg",
+    "description": ""
+  },
+  {
+    "name": "Metadate 54mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "54 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Ritalin 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 20mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 30mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 40mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 50mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 60mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 20mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 30mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 40mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "40 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 60mg",
+    "generic_name": "Methylphenidate",
+    "category": "Cap,Ext24",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 5mg/5ml",
+    "generic_name": "Methylphenidate",
+    "category": "Sol",
+    "mg_range": "5 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 10mg/5ml",
+    "generic_name": "Methylphenidate",
+    "category": "Sol",
+    "mg_range": "10 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 5mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 15mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab",
+    "mg_range": "15 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 2.5mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Chw",
+    "mg_range": "2.5 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 5mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Chw",
+    "mg_range": "5 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Chw",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 10mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "10 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 18mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "18 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 20mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 27mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "27 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 36mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "36 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 54mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "54 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 72mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext",
+    "mg_range": "72 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 18mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "18 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 27mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "27 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 36mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "36 mg",
+    "description": ""
+  },
+  {
+    "name": "Ritalin 54mg",
+    "generic_name": "Methylphenidate",
+    "category": "Tab,Ext24",
+    "mg_range": "54 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Cymbalta 20mg",
+    "generic_name": "Duloxetine",
+    "category": "Cap,Del",
+    "mg_range": "20 mg",
+    "description": ""
+  },
+  {
+    "name": "Cymbalta 30mg",
+    "generic_name": "Duloxetine",
+    "category": "Cap,Del",
+    "mg_range": "30 mg",
+    "description": ""
+  },
+  {
+    "name": "Cymbalta 60mg",
+    "generic_name": "Duloxetine",
+    "category": "Cap,Del",
+    "mg_range": "60 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Zithromax 1gm",
+    "generic_name": "Azithromycin",
+    "category": "Pac",
+    "mg_range": "60 gm",
+    "description": ""
+  },
+  {
+    "name": "Zithromax 500mg",
+    "generic_name": "Azithromycin",
+    "category": "Sol",
+    "mg_range": "500 mg",
+    "description": ""
+  },
+  {
+    "name": "Zithromax 100mg/5ml",
+    "generic_name": "Azithromycin",
+    "category": "Sus",
+    "mg_range": "100 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Zithromax 200mg/5ml",
+    "generic_name": "Azithromycin",
+    "category": "Sus",
+    "mg_range": "200 mg/5ml",
+    "description": ""
+  },
+  {
+    "name": "Zithromax 250mg",
+    "generic_name": "Azithromycin",
+    "category": "Tab",
+    "mg_range": "250 mg",
+    "description": ""
+  },
+  {
+    "name": "Zithromax 500mg",
+    "generic_name": "Azithromycin",
+    "category": "Tab",
+    "mg_range": "500 mg",
+    "description": ""
+  },
+
+  {
+    "name": "K-Dur 8meq",
+    "generic_name": "Potassium",
+    "category": "Cap,Ext",
+    "mg_range": "8 meq",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 10meq",
+    "generic_name": "Potassium",
+    "category": "Cap,Ext",
+    "mg_range": "10 meq",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 20meq",
+    "generic_name": "Potassium",
+    "category": "Pac,KCl",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 2meq/ml",
+    "generic_name": "Potassium",
+    "category": "Sol,KCl",
+    "mg_range": "2 meq/ml",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 2meq/ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "2 meq/ml",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 10meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "10 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 20meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "20 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 20meq/15ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "20 meq/15ml",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 40meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "40 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 40meq/15ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "40 meq/15ml",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 8meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,er",
+    "mg_range": "8 meq",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 10meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,Cry,er",
+    "mg_range": "10 meq",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 20meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,er",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+  {
+    "name": "K-Dur 20meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+
+  {
+    "name": "Klor-Con 8meq",
+    "generic_name": "Potassium",
+    "category": "Cap,Ext",
+    "mg_range": "8 meq",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 10meq",
+    "generic_name": "Potassium",
+    "category": "Cap,Ext",
+    "mg_range": "10 meq",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 20meq",
+    "generic_name": "Potassium",
+    "category": "Pac,KCl",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 2meq/ml",
+    "generic_name": "Potassium",
+    "category": "Sol,KCl",
+    "mg_range": "2 meq/ml",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 2meq/ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "2 meq/ml",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 10meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "10 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 20meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "20 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 20meq/15ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "20 meq/15ml",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 40meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "40 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 40meq/15ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "40 meq/15ml",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 8meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,er",
+    "mg_range": "8 meq",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 10meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,Cry,er",
+    "mg_range": "10 meq",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 20meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,er",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+  {
+    "name": "Klor-Con 20meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+
+  {
+    "name": "Klotrix 8meq",
+    "generic_name": "Potassium",
+    "category": "Cap,Ext",
+    "mg_range": "8 meq",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 10meq",
+    "generic_name": "Potassium",
+    "category": "Cap,Ext",
+    "mg_range": "10 meq",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 20meq",
+    "generic_name": "Potassium",
+    "category": "Pac,KCl",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 2meq/ml",
+    "generic_name": "Potassium",
+    "category": "Sol,KCl",
+    "mg_range": "2 meq/ml",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 2meq/ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "2 meq/ml",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 10meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "10 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 20meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "20 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 20meq/15ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "20 meq/15ml",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 40meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "40 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 40meq/15ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "40 meq/15ml",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 8meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,er",
+    "mg_range": "8 meq",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 10meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,Cry,er",
+    "mg_range": "10 meq",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 20meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,er",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+  {
+    "name": "Klotrix 20meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+
+  {
+    "name": "Micro-K 8meq",
+    "generic_name": "Potassium",
+    "category": "Cap,Ext",
+    "mg_range": "8 meq",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 10meq",
+    "generic_name": "Potassium",
+    "category": "Cap,Ext",
+    "mg_range": "10 meq",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 20meq",
+    "generic_name": "Potassium",
+    "category": "Pac,KCl",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 2meq/ml",
+    "generic_name": "Potassium",
+    "category": "Sol,KCl",
+    "mg_range": "2 meq/ml",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 2meq/ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "2 meq/ml",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 10meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "10 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 20meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "20 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 20meq/15ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "20 meq/15ml",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 40meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "40 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 40meq/15ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "40 meq/15ml",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 8meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,er",
+    "mg_range": "8 meq",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 10meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,Cry,er",
+    "mg_range": "10 meq",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 20meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,er",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+  {
+    "name": "Micro-K 20meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+
+  {
+    "name": "Slow-K 8meq",
+    "generic_name": "Potassium",
+    "category": "Cap,Ext",
+    "mg_range": "8 meq",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 10meq",
+    "generic_name": "Potassium",
+    "category": "Cap,Ext",
+    "mg_range": "10 meq",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 20meq",
+    "generic_name": "Potassium",
+    "category": "Pac,KCl",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 2meq/ml",
+    "generic_name": "Potassium",
+    "category": "Sol,KCl",
+    "mg_range": "2 meq/ml",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 2meq/ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "2 meq/ml",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 10meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "10 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 20meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "20 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 20meq/15ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "20 meq/15ml",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 40meq/100ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "40 meq/100ml",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 40meq/15ml",
+    "generic_name": "Potassium",
+    "category": "Sol",
+    "mg_range": "40 meq/15ml",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 8meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,er",
+    "mg_range": "8 meq",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 10meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,Cry,er",
+    "mg_range": "10 meq",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 20meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext,KCl,er",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+  {
+    "name": "Slow-K 20meq",
+    "generic_name": "Potassium",
+    "category": "Tab,Ext",
+    "mg_range": "20 meq",
+    "description": ""
+  },
+
+  {
+    "name": "Lopressor 25mg",
+    "generic_name": "Metoprolol succinate",
+    "category": "Tab,Ext24,Met,er",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+  {
+    "name": "Lopressor 50mg",
+    "generic_name": "Metoprolol succinate",
+    "category": "Tab,Ext24,Met,er",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+  {
+    "name": "Lopressor 50mg",
+    "generic_name": "Metoprolol succinate",
+    "category": "Tab,Ext24",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+  {
+    "name": "Lopressor 100mg",
+    "generic_name": "Metoprolol succinate",
+    "category": "Tab,Ext24",
+    "mg_range": "100 mg",
+    "description": ""
+  },
+  {
+    "name": "Lopressor 200mg",
+    "generic_name": "Metoprolol succinate",
+    "category": "Tab,Ext24",
+    "mg_range": "200 mg",
+    "description": ""
+  },
+
+  {
+    "name": "Toprol XL 25mg",
+    "generic_name": "Metoprolol succinate",
+    "category": "Tab,Ext24,Met,er",
+    "mg_range": "25 mg",
+    "description": ""
+  },
+  {
+    "name": "Toprol XL 50mg",
+    "generic_name": "Metoprolol succinate",
+    "category": "Tab,Ext24,Met,er",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+  {
+    "name": "Toprol XL 50mg",
+    "generic_name": "Metoprolol succinate",
+    "category": "Tab,Ext24",
+    "mg_range": "50 mg",
+    "description": ""
+  },
+  {
+    "name": "Toprol XL 100mg",
+    "generic_name": "Metoprolol succinate",
+    "category": "Tab,Ext24",
+    "mg_range": "100 mg",
+    "description": ""
+  },
+  {
+    "name": "Toprol XL 200mg",
+    "generic_name": "Metoprolol succinate",
+    "category": "Tab,Ext24",
+    "mg_range": "200 mg",
+    "description": ""
+  }
+]
