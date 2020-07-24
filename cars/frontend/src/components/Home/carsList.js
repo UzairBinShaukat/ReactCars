@@ -1,32 +1,42 @@
 import React from "react";
-import Car from "./car";
+import Grid from "@material-ui/core/Grid";
+import Card from "./card";
 
 const CarsList = (props) => {
-  console.log(props.cars);
   return props.view === "Cart" ? (
-    <ul className="row" style={{ display: "flex", listStyleType: "none" }}>
+    <Grid
+      container
+      spacing={8}
+      justify={"center"}
+      style={{ paddingLeft: "50px", paddingRight: "50px" }}
+    >
       {props.cars.map((car) => {
         if (car.user_id > 0) {
           return (
-            <li key={car.id} className="col-sm m-2">
-              <Car car={car} userRole={props.userRole} />
-            </li>
+            <Grid key={car.id} item xs={12} sm={6} md={4} lg={3}>
+              <Card car={car} userRole={props.userRole} />
+            </Grid>
           );
         }
       })}
-    </ul>
+    </Grid>
   ) : (
-    <ul className="row" style={{ display: "flex", listStyleType: "none" }}>
+    <Grid
+      container
+      spacing={8}
+      justify={"center"}
+      style={{ paddingLeft: "50px", paddingRight: "50px" }}
+    >
       {props.cars.map((car) => {
         if (car.user_id === 0) {
           return (
-            <li key={car.id} className="col-sm m-2">
-              <Car car={car} userRole={props.userRole} />
-            </li>
+            <Grid key={car.id} item xs={12} sm={6} md={4} lg={3}>
+              <Card car={car} userRole={props.userRole} />
+            </Grid>
           );
         }
       })}
-    </ul>
+    </Grid>
   );
 };
 

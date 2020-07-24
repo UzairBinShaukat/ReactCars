@@ -8,7 +8,6 @@ const carsReducer = (state = carsInitial, action) => {
     case actionTypes.DEL_CAR:
       return state.filter((car) => car.id != action.payload.car.id);
     case actionTypes.ALL_CARS:
-      console.log(state);
       if (state.length !== action.payload.data.length)
         return action.payload.data;
       return state;
